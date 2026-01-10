@@ -20,4 +20,6 @@ private String osname;
 @Value("${Path}")
 private String path;
 
+private String test;
+
 }
